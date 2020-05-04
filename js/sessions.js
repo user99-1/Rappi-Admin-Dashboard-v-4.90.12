@@ -1,2 +1,2 @@
 path="/get/complete/information"
-auth="YWRtaW46PXl5dH1OTFg0UDNLbTgqTlRuPDNpUA=="
+auth="b3BlcmF0b3I6WGRTKG9rakE5Nj1Cbzk="
